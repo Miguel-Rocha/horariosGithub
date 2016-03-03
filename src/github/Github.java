@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package github;
-
+import javax.swing.*;
 /**
  *
  * @author Miguel Rocha
@@ -16,6 +16,7 @@ public class Github {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Esto es la prueba de que si funcionó");
     }
     
 }
