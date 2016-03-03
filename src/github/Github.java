@@ -18,6 +18,8 @@ public class Github {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Esto es la prueba de que si funcionó");
         JOptionPane.showMessageDialog(null, "Realmente si funcionó :D ");
+        
+        System.out.println("A la verga ya vamonos....");
     }
     
 }
